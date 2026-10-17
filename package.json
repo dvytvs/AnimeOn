@@ -1,0 +1,13 @@
+{
+  "name": "animeon",
+  "version": "1.0.0",
+  "description": "Не офциальный клиент AnimeOn для ПК",
+  "main": "dist/index.html",
+  "scripts": {
+    "build": "tauri build",
+    "dev": "tauri dev"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.0"
+  }
+}
